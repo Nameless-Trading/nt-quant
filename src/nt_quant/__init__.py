@@ -62,7 +62,6 @@ from nt_quant.covariance import (
 # Optimizer
 from nt_quant.optimizer import (
     PortfolioOptimizer,
-    RobustOptimizer,
     OptimizationResult,
 )
 
