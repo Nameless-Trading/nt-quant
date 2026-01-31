@@ -9,6 +9,7 @@ dependencies = [
     "dataframely>=2.6.0",
     "numpy>=2.4.1",
     "polars>=1.37.1",
+    "ray[default]>=2.53.0",
 ]
 
 [dependency-groups]
